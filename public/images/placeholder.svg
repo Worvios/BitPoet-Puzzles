@@ -1,0 +1,13 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#EEF2FF" />
+      <stop offset="0.5" stop-color="#ECFEFF" />
+      <stop offset="1" stop-color="#F0FDF4" />
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" rx="48" fill="url(#bg)" />
+  <rect x="80" y="110" width="1040" height="410" rx="36" fill="white" />
+  <text x="140" y="250" font-family="Inter, sans-serif" font-size="56" font-weight="700" fill="#0F172A">BitPoet Puzzles</text>
+  <text x="140" y="320" font-family="Inter, sans-serif" font-size="28" font-weight="500" fill="#475569">Premium daily challenges</text>
+</svg>
